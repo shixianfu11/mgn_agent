@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.test_runs/
+.vscode/
+AGENTS.md
+examples/
+test/
+docs/
